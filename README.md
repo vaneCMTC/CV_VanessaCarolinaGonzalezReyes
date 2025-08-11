@@ -1,29 +1,32 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Vanessa Carolina González Reyes
+**Profesión:** _Analista y desarrolladora de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 320 462 8122
+- **Email:** [carol.gonzlez05@gmail.com](mailto:carol.gonzlez05@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Python
+- Frontend
+- Js.
+- TypeScript
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2025 - Actualidad)_
+-Aprendiz de Análisis y Desarrollo de Software
+### **Alemania Unificada** _(2024)_
+- Bachiller
+- Técnico en Programacion de Software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Comunicación**
+- **Creatividad**
+- **Pensamiento crítico**
 
 ---
 
