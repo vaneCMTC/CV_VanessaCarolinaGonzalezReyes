@@ -5,7 +5,6 @@
 **Profesión:** _Analista y desarrolladora de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 320 462 8122
 - **Email:** [carol.gonzlez05@gmail.com](mailto:carol.gonzlez05@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
